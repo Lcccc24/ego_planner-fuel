@@ -1,0 +1,8 @@
+prefix=/home/uav1/ego+ctrl/ego_planner/Fast-Drone-250/devel
+
+Name: cmake_utils
+Description: Description of cmake_utils
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,5 @@
+<launch>
+    <rosparam file="/home/uav1/ego+ctrl/ctrl_rgo_ws/cxr_ego_ctrl/src/cxr_egoctrl_v1/config/waypoints.yaml" command="load" />
+    <node pkg="cxr_egoctrl_v1" type="cxr_egoctrl_v1" name="cxr_egoctrl_v1" output="screen" />
+</launch>
+

@@ -1,0 +1,6 @@
+devel_space: /home/uav1/ego+ctrl/ctrl_rgo_ws/cxr_ego_ctrl/devel
+install: false
+install_space: /home/uav1/ego+ctrl/ctrl_rgo_ws/cxr_ego_ctrl/install
+profile: default
+source_space: /home/uav1/ego+ctrl/ctrl_rgo_ws/cxr_ego_ctrl/src
+workspace: /home/uav1/ego+ctrl/ctrl_rgo_ws/cxr_ego_ctrl

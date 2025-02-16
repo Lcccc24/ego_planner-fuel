@@ -1,0 +1,8 @@
+prefix=/home/uav1/ego+ctrl/ctrl_rgo_ws/cxr_ego_ctrl/install
+
+Name: cxr_egoctrl_v1
+Description: Description of cxr_egoctrl_v1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
